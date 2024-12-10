@@ -5,6 +5,8 @@ VisualStudioVersion = 17.12.35527.113 d17.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practica5Docker", "Practica5Docker\Practica5Docker.csproj", "{3676AA2E-1FED-44FD-939C-488F332C4047}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "webapi", "webapi\webapi.csproj", "{E3164512-EA27-4614-8C02-F5108BCF93A4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{3676AA2E-1FED-44FD-939C-488F332C4047}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3676AA2E-1FED-44FD-939C-488F332C4047}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3676AA2E-1FED-44FD-939C-488F332C4047}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3164512-EA27-4614-8C02-F5108BCF93A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3164512-EA27-4614-8C02-F5108BCF93A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3164512-EA27-4614-8C02-F5108BCF93A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3164512-EA27-4614-8C02-F5108BCF93A4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
